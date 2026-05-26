@@ -1,0 +1,53 @@
+OrderID,Date,Region,Store,Category,Product,UnitsSold,Revenue,Cost,DiscountPercent
+1001,05/01/2026,East,providence cafe,Coffee,Latte,45,$247.50,$135.00,0
+1002,2026-05-01,East,Providence Cafe,Food,Muffin,30,105,42,10
+1003,2026/05/01,west,Seattle central,Coffee,Cold Brew,52,$286.00,$140.00,5
+1004,05-02-2026,South,Austin beans,Tea,Chai Latte,28,126,56,
+1005,2026-05-02,West,Seattle Central,Food,Bagel,40,$140.00,$52.00,15
+1006,2026-05-02,East,Providence Cafe,Coffee,Cappuccino,38,$209.00,$114.00,0
+1007,2026-05-03,South,Austin Beans,Coffee,Americano,60,$210.00,$78.00,0
+1008,2026-05-03,West,Seattle Central,Tea,Green Tea,25,$87.50,$30.00,0
+1009,2026-05-03,East,Providence Cafe,Food,Croissant,18,$81.00,$36.00,20
+1010,2026-05-04,South,Austin Beans,Food,Cookie,50,$125.00,$40.00,0
+1011,2026-05-04,West,Seattle Central,Coffee,Mocha,33,$198.00,$102.00,10
+1012,2026-05-04,East,Providence Cafe,Tea,Matcha Latte,20,$110.00,$48.00,5
+1013,2026-05-05,South,Austin Beans,Coffee,Espresso,70,$210.00,$84.00,0
+1014,2026-05-05,West,Seattle Central,Food,Scone,22,$88.00,$35.00,0
+1015,2026-05-05,East,Providence Cafe,Coffee,Flat White,27,$162.00,$81.00,0
+1015,2026-05-05,East,Providence Cafe,Coffee,Flat White,27,$162.00,$81.00,0
+1003,2026/05/01,west,Seattle central,Coffee,Cold Brew,52,$286.00,$140.00,5
+1016,2026-05-06,East,Providence Cafe,Coffee,Latte,45,$247.50,$135.00,0
+1017,05/06/26,West,Seattle central,Tea,Chai Latte,30,$130.00,$60.00,5
+1018,2026-05-06,South,Austin Beans,Food,Bagel,25,120,50,10
+1019,2026-05-06,,Providence Cafe,Coffee,Mocha,35,$190.00,$100.00,
+1020,2026-05-06,East,Providence Cafe,Coffee,Cappuccino,not_a_number,$200.00,$110.00,5
+1021,2026-13-01,West,Seattle Central,Tea,Green Tea,22,$90.00,$30.00,0
+1022,2026-05-07,South,Austin Beans,Coffee,Espresso,80,$220.00,$90.00,0
+1023,2026-05-07,East,Providence Cafe,Food,Muffin,35,$115.00,$45.00,10
+1024,05/07/2026,West,Seattle Central,Coffee,Latte,40,$240.00,$130.00,0
+1025,2026-05-07,South,Austin Beans,Tea,Chai Latte,28,$128.00,$55.00,5
+1026,2026-05-08,East,Providence Cafe,Coffee,Cold Brew,55,$300.00,$150.00,0
+1027,2026-05-08,West,Seattle central,Food,Scone,20,$80.00,$32.00,10
+1028,2026-05-08,South,Austin Beans,Food,Cookie,60,$150.00,$45.00,0
+1029,2026-05-08,East,Providence Cafe,Coffee,Americano,65,$215.00,$80.00,0
+1030,invalid_date,West,Seattle Central,Coffee,Mocha,30,$190.00,$100.00,5
+1031,2026-05-09,South,Austin Beans,Coffee,Espresso,not_number,$220.00,$90.00,0
+1032,2026-05-09,East,Providence Cafe,Tea,Matcha Latte,25,$120.00,$50.00,5
+1033,2026-05-09,West,Seattle Central,Tea,Green Tea,28,$95.00,$35.00,0
+1034,2026-05-09,East,Providence Cafe,Food,Croissant,22,$90.00,$40.00,15
+1035,2026-05-10,South,Austin Beans,Food,Bagel,30,$125.00,$55.00,10
+1036,2026-05-10,West,Seattle Central,Coffee,Latte,48,$260.00,$140.00,0
+1037,2026-05-10,East,Providence Cafe,Coffee,Cappuccino,42,$210.00,$110.00,0
+1038,2026-05-10,South,Austin Beans,Coffee,Americano,75,$240.00,$90.00,0
+1039,2026-05-11,West,Seattle Central,Food,Muffin,40,$130.00,$50.00,5
+1040,2026-05-11,East,Providence Cafe,Coffee,Flat White,33,$170.00,$85.00,0
+1041,2026-05-11,South,Austin Beans,Tea,Chai Latte,35,$140.00,$60.00,0
+1042,2026-05-11,West,Seattle Central,Coffee,Mocha,38,$200.00,$110.00,10
+1043,2026-05-12,East,Providence Cafe,Coffee,Latte,50,$260.00,$140.00,0
+1044,2026-05-12,South,Austin Beans,Food,Cookie,65,$160.00,$50.00,0
+1045,2026-05-12,West,Seattle Central,Tea,Green Tea,30,$100.00,$35.00,0
+1046,2026-05-12,East,Providence Cafe,Food,Scone,25,$95.00,$40.00,10
+1047,2026-05-13,South,Austin Beans,Coffee,Espresso,85,$230.00,$95.00,0
+1048,2026-05-13,West,Seattle Central,Food,Bagel,35,$135.00,$55.00,5
+1049,2026-05-13,East,Providence Cafe,Tea,Matcha Latte,30,$130.00,$55.00,5
+1050,2026-05-13,South,Austin Beans,Coffee,Americano,80,$250.00,$95.00,0

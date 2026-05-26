@@ -1,0 +1,5 @@
+.coffeevvenv/
+.salevenv/
+pycache/
+.pynb_checkpoints/
+.env
