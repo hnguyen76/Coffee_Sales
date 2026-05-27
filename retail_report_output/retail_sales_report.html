@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Retail Sales Report</title>
+  <style>
+    :root { --ink:#111827; --muted:#64748b; --line:#dbe3ef; --blue:#1d4ed8; --green:#15803d; --orange:#ea580c; --bg:#f8fafc; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:Segoe UI, Arial, sans-serif; line-height:1.5; }
+    main { max-width:1180px; margin:0 auto; padding:36px 24px 56px; }
+    header { border-bottom:1px solid var(--line); padding-bottom:20px; margin-bottom:24px; }
+    h1 { margin:0 0 8px; font-size:34px; }
+    h2 { margin-top:34px; font-size:22px; }
+    .meta { color:var(--muted); }
+    .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:14px; margin:22px 0; }
+    .kpis div { background:white; border:1px solid var(--line); border-top:4px solid var(--blue); padding:14px; border-radius:8px; }
+    .kpis span { display:block; color:var(--muted); font-size:13px; }
+    .kpis strong { display:block; margin-top:6px; font-size:22px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(380px,1fr)); gap:18px; }
+    figure { margin:0; background:white; border:1px solid var(--line); border-radius:8px; padding:12px; }
+    img { width:100%; height:auto; display:block; }
+    section { background:white; border:1px solid var(--line); border-radius:8px; padding:18px; margin-top:18px; }
+    li { margin:8px 0; }
+    .data-table { width:100%; border-collapse:collapse; font-size:14px; }
+    .data-table th { text-align:left; background:#eaf1fb; color:#0f172a; }
+    .data-table th, .data-table td { padding:9px 10px; border-bottom:1px solid var(--line); }
+    .data-table td:nth-child(n+2), .data-table th:nth-child(n+2) { text-align:right; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Retail Sales Report</h1>
+    <div class="meta">Source: retail_sales.csv | Date range: 2026-01-01 to 2026-01-20 | Generated: 2026-05-27 09:49</div>
+  </header>
+  <div class="kpis"><div><span>Orders</span><strong>20</strong></div>
+<div><span>Total Sales</span><strong>$22,300</strong></div>
+<div><span>Total Profit</span><strong>$5,420</strong></div>
+<div><span>Profit Margin</span><strong>24.3%</strong></div>
+<div><span>Avg Order Value</span><strong>$1,115</strong></div>
+<div><span>Best Category</span><strong>Technology</strong></div></div>
+  <section><h2>Insights</h2><ul><li>Total sales reached $22,300 across 20 orders; profit reached $5,420, equal to a 24.3% profit margin.</li>
+<li>The Technology category is the primary driver: $12,500 in sales (56.1% of total sales) and $3,650 in profit.</li>
+<li>The East region leads with $10,700 in sales and $2,770 in profit. South is the weakest region, with $2,600 in sales and a 19.6% profit margin.</li>
+<li>The Consumer segment generates the most sales ($8,800); Home Office has the strongest profit margin at 27.8%.</li>
+<li>Sales in the final 5 days were 48.5% higher than the first 5 days; profit rose 75.7%, indicating stronger sales momentum late in the period.</li>
+<li>Furniture has the lowest profit margin (17.5%); review pricing, discounts, or product mix.</li></ul></section>
+  <section><h2>Recommendations</h2><ul><li>Prioritize sales budget for Technology because it contributes the most sales and profit.</li>
+<li>Optimize Furniture through bundles, pricing adjustments, or cost reductions to bring margin closer to the overall level.</li>
+<li>Replicate the East playbook in South: winning categories, promotions, and customer care scripts.</li>
+<li>Expand the Home Office customer base because it is the highest-margin segment.</li>
+<li>Add Quantity, Unit Cost, Discount, and Channel to the raw data for deeper margin and campaign effectiveness analysis.</li></ul></section>
+  <h2>Visualizations</h2>
+  <div class="grid"><figure><img src="charts/daily_sales_profit_trend.png" alt="daily_sales_profit_trend"></figure>
+<figure><img src="charts/category_sales_profit.png" alt="category_sales_profit"></figure>
+<figure><img src="charts/region_sales_profit.png" alt="region_sales_profit"></figure>
+<figure><img src="charts/segment_profit_margin.png" alt="segment_profit_margin"></figure>
+<figure><img src="charts/sales_mix_by_category.png" alt="sales_mix_by_category"></figure></div>
+  <section><h2>Performance by Category</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Category</th>
+      <th>Orders</th>
+      <th>Sales</th>
+      <th>Profit</th>
+      <th>ProfitMargin</th>
+      <th>SalesShare</th>
+      <th>ProfitShare</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Technology</td>
+      <td>7</td>
+      <td>$12,500</td>
+      <td>$3,650</td>
+      <td>29.2%</td>
+      <td>56.1%</td>
+      <td>67.3%</td>
+    </tr>
+    <tr>
+      <td>Furniture</td>
+      <td>7</td>
+      <td>$7,200</td>
+      <td>$1,260</td>
+      <td>17.5%</td>
+      <td>32.3%</td>
+      <td>23.2%</td>
+    </tr>
+    <tr>
+      <td>Office Supplies</td>
+      <td>6</td>
+      <td>$2,600</td>
+      <td>$510</td>
+      <td>19.6%</td>
+      <td>11.7%</td>
+      <td>9.4%</td>
+    </tr>
+  </tbody>
+</table></section>
+  <section><h2>Performance by Region</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Region</th>
+      <th>Orders</th>
+      <th>Sales</th>
+      <th>Profit</th>
+      <th>ProfitMargin</th>
+      <th>SalesShare</th>
+      <th>ProfitShare</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>East</td>
+      <td>7</td>
+      <td>$10,700</td>
+      <td>$2,770</td>
+      <td>25.9%</td>
+      <td>48.0%</td>
+      <td>51.1%</td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>7</td>
+      <td>$9,000</td>
+      <td>$2,140</td>
+      <td>23.8%</td>
+      <td>40.4%</td>
+      <td>39.5%</td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>6</td>
+      <td>$2,600</td>
+      <td>$510</td>
+      <td>19.6%</td>
+      <td>11.7%</td>
+      <td>9.4%</td>
+    </tr>
+  </tbody>
+</table></section>
+  <section><h2>Performance by Segment</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>CustomerSegment</th>
+      <th>Orders</th>
+      <th>Sales</th>
+      <th>Profit</th>
+      <th>ProfitMargin</th>
+      <th>SalesShare</th>
+      <th>ProfitShare</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Consumer</td>
+      <td>8</td>
+      <td>$8,800</td>
+      <td>$2,070</td>
+      <td>23.5%</td>
+      <td>39.5%</td>
+      <td>38.2%</td>
+    </tr>
+    <tr>
+      <td>Corporate</td>
+      <td>7</td>
+      <td>$7,350</td>
+      <td>$1,640</td>
+      <td>22.3%</td>
+      <td>33.0%</td>
+      <td>30.3%</td>
+    </tr>
+    <tr>
+      <td>Home Office</td>
+      <td>5</td>
+      <td>$6,150</td>
+      <td>$1,710</td>
+      <td>27.8%</td>
+      <td>27.6%</td>
+      <td>31.5%</td>
+    </tr>
+  </tbody>
+</table></section>
+</main>
+</body>
+</html>

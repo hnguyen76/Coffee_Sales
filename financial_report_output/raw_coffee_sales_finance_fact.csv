@@ -1,0 +1,101 @@
+source_row_id,transaction_date,account,account_type,scenario,region,store,product,category,financial_line,source_amount,amount,abs_amount,period,fiscal_year,fiscal_quarter
+1,2026-05-01,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,Revenue,247.5,247.5,247.5,2026-05,2026,Q2
+2,2026-05-01,Unassigned,Unassigned,Actual,East,Providence Cafe,Muffin,Food,Revenue,105.0,105.0,105.0,2026-05,2026,Q2
+3,2026-05-01,Unassigned,Unassigned,Actual,West,Seattle Central,Cold Brew,Coffee,Revenue,286.0,286.0,286.0,2026-05,2026,Q2
+4,2026-05-02,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,Revenue,126.0,126.0,126.0,2026-05,2026,Q2
+5,2026-05-02,Unassigned,Unassigned,Actual,West,Seattle Central,Bagel,Food,Revenue,140.0,140.0,140.0,2026-05,2026,Q2
+6,2026-05-02,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,Revenue,209.0,209.0,209.0,2026-05,2026,Q2
+7,2026-05-03,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,Revenue,210.0,210.0,210.0,2026-05,2026,Q2
+8,2026-05-03,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,Revenue,87.5,87.5,87.5,2026-05,2026,Q2
+9,2026-05-03,Unassigned,Unassigned,Actual,East,Providence Cafe,Croissant,Food,Revenue,81.0,81.0,81.0,2026-05,2026,Q2
+10,2026-05-04,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,Revenue,125.0,125.0,125.0,2026-05,2026,Q2
+11,2026-05-04,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,Revenue,198.0,198.0,198.0,2026-05,2026,Q2
+12,2026-05-04,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,Revenue,110.0,110.0,110.0,2026-05,2026,Q2
+13,2026-05-05,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,Revenue,210.0,210.0,210.0,2026-05,2026,Q2
+14,2026-05-05,Unassigned,Unassigned,Actual,West,Seattle Central,Scone,Food,Revenue,88.0,88.0,88.0,2026-05,2026,Q2
+15,2026-05-05,Unassigned,Unassigned,Actual,East,Providence Cafe,Flat White,Coffee,Revenue,162.0,162.0,162.0,2026-05,2026,Q2
+16,2026-05-06,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,Revenue,247.5,247.5,247.5,2026-05,2026,Q2
+17,2026-05-06,Unassigned,Unassigned,Actual,West,Seattle Central,Chai Latte,Tea,Revenue,130.0,130.0,130.0,2026-05,2026,Q2
+18,2026-05-06,Unassigned,Unassigned,Actual,South,Austin Beans,Bagel,Food,Revenue,120.0,120.0,120.0,2026-05,2026,Q2
+19,2026-05-06,Unassigned,Unassigned,Actual,Unassigned,Providence Cafe,Mocha,Coffee,Revenue,190.0,190.0,190.0,2026-05,2026,Q2
+20,2026-05-06,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,Revenue,200.0,200.0,200.0,2026-05,2026,Q2
+21,,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,Revenue,90.0,90.0,90.0,Unassigned Period,,Unassigned
+22,2026-05-07,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,Revenue,220.0,220.0,220.0,2026-05,2026,Q2
+23,2026-05-07,Unassigned,Unassigned,Actual,East,Providence Cafe,Muffin,Food,Revenue,115.0,115.0,115.0,2026-05,2026,Q2
+24,2026-05-07,Unassigned,Unassigned,Actual,West,Seattle Central,Latte,Coffee,Revenue,240.0,240.0,240.0,2026-05,2026,Q2
+25,2026-05-07,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,Revenue,128.0,128.0,128.0,2026-05,2026,Q2
+26,2026-05-08,Unassigned,Unassigned,Actual,East,Providence Cafe,Cold Brew,Coffee,Revenue,300.0,300.0,300.0,2026-05,2026,Q2
+27,2026-05-08,Unassigned,Unassigned,Actual,West,Seattle Central,Scone,Food,Revenue,80.0,80.0,80.0,2026-05,2026,Q2
+28,2026-05-08,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,Revenue,150.0,150.0,150.0,2026-05,2026,Q2
+29,2026-05-08,Unassigned,Unassigned,Actual,East,Providence Cafe,Americano,Coffee,Revenue,215.0,215.0,215.0,2026-05,2026,Q2
+30,,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,Revenue,190.0,190.0,190.0,Unassigned Period,,Unassigned
+31,2026-05-09,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,Revenue,220.0,220.0,220.0,2026-05,2026,Q2
+32,2026-05-09,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,Revenue,120.0,120.0,120.0,2026-05,2026,Q2
+33,2026-05-09,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,Revenue,95.0,95.0,95.0,2026-05,2026,Q2
+34,2026-05-09,Unassigned,Unassigned,Actual,East,Providence Cafe,Croissant,Food,Revenue,90.0,90.0,90.0,2026-05,2026,Q2
+35,2026-05-10,Unassigned,Unassigned,Actual,South,Austin Beans,Bagel,Food,Revenue,125.0,125.0,125.0,2026-05,2026,Q2
+36,2026-05-10,Unassigned,Unassigned,Actual,West,Seattle Central,Latte,Coffee,Revenue,260.0,260.0,260.0,2026-05,2026,Q2
+37,2026-05-10,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,Revenue,210.0,210.0,210.0,2026-05,2026,Q2
+38,2026-05-10,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,Revenue,240.0,240.0,240.0,2026-05,2026,Q2
+39,2026-05-11,Unassigned,Unassigned,Actual,West,Seattle Central,Muffin,Food,Revenue,130.0,130.0,130.0,2026-05,2026,Q2
+40,2026-05-11,Unassigned,Unassigned,Actual,East,Providence Cafe,Flat White,Coffee,Revenue,170.0,170.0,170.0,2026-05,2026,Q2
+41,2026-05-11,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,Revenue,140.0,140.0,140.0,2026-05,2026,Q2
+42,2026-05-11,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,Revenue,200.0,200.0,200.0,2026-05,2026,Q2
+43,2026-05-12,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,Revenue,260.0,260.0,260.0,2026-05,2026,Q2
+44,2026-05-12,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,Revenue,160.0,160.0,160.0,2026-05,2026,Q2
+45,2026-05-12,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,Revenue,100.0,100.0,100.0,2026-05,2026,Q2
+46,2026-05-12,Unassigned,Unassigned,Actual,East,Providence Cafe,Scone,Food,Revenue,95.0,95.0,95.0,2026-05,2026,Q2
+47,2026-05-13,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,Revenue,230.0,230.0,230.0,2026-05,2026,Q2
+48,2026-05-13,Unassigned,Unassigned,Actual,West,Seattle Central,Bagel,Food,Revenue,135.0,135.0,135.0,2026-05,2026,Q2
+49,2026-05-13,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,Revenue,130.0,130.0,130.0,2026-05,2026,Q2
+50,2026-05-13,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,Revenue,250.0,250.0,250.0,2026-05,2026,Q2
+1,2026-05-01,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,COGS,135.0,-135.0,135.0,2026-05,2026,Q2
+2,2026-05-01,Unassigned,Unassigned,Actual,East,Providence Cafe,Muffin,Food,COGS,42.0,-42.0,42.0,2026-05,2026,Q2
+3,2026-05-01,Unassigned,Unassigned,Actual,West,Seattle Central,Cold Brew,Coffee,COGS,140.0,-140.0,140.0,2026-05,2026,Q2
+4,2026-05-02,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,COGS,56.0,-56.0,56.0,2026-05,2026,Q2
+5,2026-05-02,Unassigned,Unassigned,Actual,West,Seattle Central,Bagel,Food,COGS,52.0,-52.0,52.0,2026-05,2026,Q2
+6,2026-05-02,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,COGS,114.0,-114.0,114.0,2026-05,2026,Q2
+7,2026-05-03,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,COGS,78.0,-78.0,78.0,2026-05,2026,Q2
+8,2026-05-03,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,COGS,30.0,-30.0,30.0,2026-05,2026,Q2
+9,2026-05-03,Unassigned,Unassigned,Actual,East,Providence Cafe,Croissant,Food,COGS,36.0,-36.0,36.0,2026-05,2026,Q2
+10,2026-05-04,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,COGS,40.0,-40.0,40.0,2026-05,2026,Q2
+11,2026-05-04,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,COGS,102.0,-102.0,102.0,2026-05,2026,Q2
+12,2026-05-04,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,COGS,48.0,-48.0,48.0,2026-05,2026,Q2
+13,2026-05-05,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,COGS,84.0,-84.0,84.0,2026-05,2026,Q2
+14,2026-05-05,Unassigned,Unassigned,Actual,West,Seattle Central,Scone,Food,COGS,35.0,-35.0,35.0,2026-05,2026,Q2
+15,2026-05-05,Unassigned,Unassigned,Actual,East,Providence Cafe,Flat White,Coffee,COGS,81.0,-81.0,81.0,2026-05,2026,Q2
+16,2026-05-06,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,COGS,135.0,-135.0,135.0,2026-05,2026,Q2
+17,2026-05-06,Unassigned,Unassigned,Actual,West,Seattle Central,Chai Latte,Tea,COGS,60.0,-60.0,60.0,2026-05,2026,Q2
+18,2026-05-06,Unassigned,Unassigned,Actual,South,Austin Beans,Bagel,Food,COGS,50.0,-50.0,50.0,2026-05,2026,Q2
+19,2026-05-06,Unassigned,Unassigned,Actual,Unassigned,Providence Cafe,Mocha,Coffee,COGS,100.0,-100.0,100.0,2026-05,2026,Q2
+20,2026-05-06,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,COGS,110.0,-110.0,110.0,2026-05,2026,Q2
+21,,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,COGS,30.0,-30.0,30.0,Unassigned Period,,Unassigned
+22,2026-05-07,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,COGS,90.0,-90.0,90.0,2026-05,2026,Q2
+23,2026-05-07,Unassigned,Unassigned,Actual,East,Providence Cafe,Muffin,Food,COGS,45.0,-45.0,45.0,2026-05,2026,Q2
+24,2026-05-07,Unassigned,Unassigned,Actual,West,Seattle Central,Latte,Coffee,COGS,130.0,-130.0,130.0,2026-05,2026,Q2
+25,2026-05-07,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,COGS,55.0,-55.0,55.0,2026-05,2026,Q2
+26,2026-05-08,Unassigned,Unassigned,Actual,East,Providence Cafe,Cold Brew,Coffee,COGS,150.0,-150.0,150.0,2026-05,2026,Q2
+27,2026-05-08,Unassigned,Unassigned,Actual,West,Seattle Central,Scone,Food,COGS,32.0,-32.0,32.0,2026-05,2026,Q2
+28,2026-05-08,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,COGS,45.0,-45.0,45.0,2026-05,2026,Q2
+29,2026-05-08,Unassigned,Unassigned,Actual,East,Providence Cafe,Americano,Coffee,COGS,80.0,-80.0,80.0,2026-05,2026,Q2
+30,,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,COGS,100.0,-100.0,100.0,Unassigned Period,,Unassigned
+31,2026-05-09,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,COGS,90.0,-90.0,90.0,2026-05,2026,Q2
+32,2026-05-09,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,COGS,50.0,-50.0,50.0,2026-05,2026,Q2
+33,2026-05-09,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,COGS,35.0,-35.0,35.0,2026-05,2026,Q2
+34,2026-05-09,Unassigned,Unassigned,Actual,East,Providence Cafe,Croissant,Food,COGS,40.0,-40.0,40.0,2026-05,2026,Q2
+35,2026-05-10,Unassigned,Unassigned,Actual,South,Austin Beans,Bagel,Food,COGS,55.0,-55.0,55.0,2026-05,2026,Q2
+36,2026-05-10,Unassigned,Unassigned,Actual,West,Seattle Central,Latte,Coffee,COGS,140.0,-140.0,140.0,2026-05,2026,Q2
+37,2026-05-10,Unassigned,Unassigned,Actual,East,Providence Cafe,Cappuccino,Coffee,COGS,110.0,-110.0,110.0,2026-05,2026,Q2
+38,2026-05-10,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,COGS,90.0,-90.0,90.0,2026-05,2026,Q2
+39,2026-05-11,Unassigned,Unassigned,Actual,West,Seattle Central,Muffin,Food,COGS,50.0,-50.0,50.0,2026-05,2026,Q2
+40,2026-05-11,Unassigned,Unassigned,Actual,East,Providence Cafe,Flat White,Coffee,COGS,85.0,-85.0,85.0,2026-05,2026,Q2
+41,2026-05-11,Unassigned,Unassigned,Actual,South,Austin Beans,Chai Latte,Tea,COGS,60.0,-60.0,60.0,2026-05,2026,Q2
+42,2026-05-11,Unassigned,Unassigned,Actual,West,Seattle Central,Mocha,Coffee,COGS,110.0,-110.0,110.0,2026-05,2026,Q2
+43,2026-05-12,Unassigned,Unassigned,Actual,East,Providence Cafe,Latte,Coffee,COGS,140.0,-140.0,140.0,2026-05,2026,Q2
+44,2026-05-12,Unassigned,Unassigned,Actual,South,Austin Beans,Cookie,Food,COGS,50.0,-50.0,50.0,2026-05,2026,Q2
+45,2026-05-12,Unassigned,Unassigned,Actual,West,Seattle Central,Green Tea,Tea,COGS,35.0,-35.0,35.0,2026-05,2026,Q2
+46,2026-05-12,Unassigned,Unassigned,Actual,East,Providence Cafe,Scone,Food,COGS,40.0,-40.0,40.0,2026-05,2026,Q2
+47,2026-05-13,Unassigned,Unassigned,Actual,South,Austin Beans,Espresso,Coffee,COGS,95.0,-95.0,95.0,2026-05,2026,Q2
+48,2026-05-13,Unassigned,Unassigned,Actual,West,Seattle Central,Bagel,Food,COGS,55.0,-55.0,55.0,2026-05,2026,Q2
+49,2026-05-13,Unassigned,Unassigned,Actual,East,Providence Cafe,Matcha Latte,Tea,COGS,55.0,-55.0,55.0,2026-05,2026,Q2
+50,2026-05-13,Unassigned,Unassigned,Actual,South,Austin Beans,Americano,Coffee,COGS,95.0,-95.0,95.0,2026-05,2026,Q2
