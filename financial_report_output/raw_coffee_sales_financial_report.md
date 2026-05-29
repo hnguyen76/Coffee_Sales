@@ -1,6 +1,6 @@
 # Financial Report - raw_coffee_sales.csv
 
-Generated at: 2026-05-26 20:07:49
+Generated at: 2026-05-28 21:46:13
 
 ## Executive Summary
 
@@ -102,15 +102,15 @@ Generated at: 2026-05-26 20:07:49
 
 ## Output Files
 
-- Cleaned CSV: `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/raw_coffee_sales_cleaned.csv`
-- Finance fact CSV: `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/raw_coffee_sales_finance_fact.csv`
-- Excel workbook: `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/raw_coffee_sales_financial_workbook.xlsx`
+- Cleaned CSV: `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/raw_coffee_sales_cleaned.csv`
+- Finance fact CSV: `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/raw_coffee_sales_finance_fact.csv`
+- Excel workbook: `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/raw_coffee_sales_financial_workbook.xlsx`
 - Charts:
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/charts/monthly_pnl_trend.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/charts/pnl_summary.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/charts/top_expense_drivers.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/charts/margin_trend.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/financial_report_output/charts/profitability_by_region.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/charts/monthly_pnl_trend.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/charts/pnl_summary.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/charts/top_expense_drivers.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/charts/margin_trend.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/financial_report_output/charts/profitability_by_region.png`
 
 ## Assumptions
 

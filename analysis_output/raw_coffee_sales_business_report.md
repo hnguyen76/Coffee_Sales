@@ -1,6 +1,6 @@
 # Business Insight Report - raw_coffee_sales.csv
 
-Generated at: 2026-05-26 19:58:29
+Generated at: 2026-05-28 21:47:21
 
 ## Executive Summary
 
@@ -75,20 +75,20 @@ Generated at: 2026-05-26 19:58:29
 
 ## Output Files
 
-- Cleaned CSV: `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/raw_coffee_sales_cleaned.csv`
+- Cleaned CSV: `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/raw_coffee_sales_cleaned.csv`
 - Charts:
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/revenue_profit_trend.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/top_region_by_revenue.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/margin_by_region.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/top_store_by_revenue.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/margin_by_store.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/top_category_by_revenue.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/margin_by_category.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/top_product_by_revenue.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/margin_by_product.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/discount_vs_profit_margin.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/numeric_correlation_heatmap.png`
-  - `C:/Users/hieum/Desktop/Repo/Coffee_sales/Coffee_Sales/analysis_output/charts/missing_values_before_cleaning.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/revenue_profit_trend.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/top_region_by_revenue.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/margin_by_region.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/top_store_by_revenue.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/margin_by_store.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/top_category_by_revenue.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/margin_by_category.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/top_product_by_revenue.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/margin_by_product.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/discount_vs_profit_margin.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/numeric_correlation_heatmap.png`
+  - `C:/Users/hueyn/Desktop/Coffee_Sales/analysis_output/charts/missing_values_before_cleaning.png`
 
 ## Suggested Next Analyst Steps
 
